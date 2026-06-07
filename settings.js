@@ -1,12 +1,12 @@
 const settings = {
-  packname: '𝙳𝙰𝚅𝙴-𝙼𝙳',
+  packname: 'Malik OVcS',
   author: '‎',
   botName: "𝙳𝙰𝚅𝙴-𝙼𝙳",
-  botOwner: 'dave', // Your name
-  ownerNumber: '254104260236', //Set your number here without + symbol, just add country code & number without any space
+  botOwner: 'Kabaka Malik', // Your name
+  ownerNumber: '256700273834', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
-  maxStoreMessages: 20, 
+  commandMode: "private",
+  maxStoreMessages: "10000", 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "1.2.4",
